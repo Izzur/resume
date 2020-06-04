@@ -9,11 +9,18 @@ const IndexPage = () => (
     <h1>Hi people</h1>
     <h2>Work Experience</h2>
     <ul>
-      <li>Sinarmas Mining</li>
+      <li>Sinarmas Mining
+        <ul>
+          <li>Developing application platform to support Healt, Safety, and Environment department</li>
+          <li>Modernizing application to new cloud platform</li>
+          <li>Developing internal messaging service</li>
+          <li>Digitalization of procurement request process for IT assets</li>
+        </ul>
+      </li>
     </ul>
     <h2>Education</h2>
     <ul>
-      <li>Institut Teknologi Sepuluh Nopember</li>
+      <li>Institut Teknologi Sepuluh Nopember<br></br>Information System</li>
     </ul>
     <h2>Skills</h2>
     <ul>

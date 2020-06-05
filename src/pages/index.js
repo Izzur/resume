@@ -11,10 +11,14 @@ const IndexPage = () => (
     <ul>
       <li>Sinarmas Mining
         <ul>
-          <li>Developing application platform to support Healt, Safety, and Environment department</li>
-          <li>Modernizing application to new cloud platform</li>
-          <li>Developing internal messaging service</li>
-          <li>Digitalization of procurement request process for IT assets</li>
+          <li>Developing application platform to support Health, Safety, and Environment department<br></br>
+          Stack: Flutter, ExpressJS</li>
+          <li>Modernizing application to new cloud platform<br></br>
+          Stack: AWS</li>
+          <li>Developing internal messaging service<br></br>
+          Stack: Android</li>
+          <li>Digitalization of procurement request process for IT assets<br></br>
+          Stack: VueJS, MongoDB</li>
         </ul>
       </li>
     </ul>

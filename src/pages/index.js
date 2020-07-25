@@ -21,6 +21,23 @@ const IndexPage = () => (
           Stack: VueJS, MongoDB</li>
         </ul>
       </li>
+      <li>Open Source
+        <ul>
+          <li>Contribute to open source software development</li>
+        </ul>
+      </li>
+      <li>Berau Coal
+        <ul>
+          <li>Create web dashboard to monitor production data<br></br>
+          Stack: CodeIgniter, Talend Open Studio</li>
+        </ul>
+      </li>
+      <li>Reblood
+        <ul>
+          <li>Developing Android application<br></br>
+          Stack: Java</li>
+        </ul>
+      </li>
     </ul>
     <h2>Education</h2>
     <ul>
